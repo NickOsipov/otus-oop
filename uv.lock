@@ -1,5 +1,5 @@
 version = 1
-requires-python = "==3.11.12"
+requires-python = "==3.11.4"
 
 [[package]]
 name = "appnope"
@@ -224,7 +224,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "ipykernel", specifier = ">=6.29.5" }]
+requires-dist = [{ name = "ipykernel", specifier = "==6.29.5" }]
 
 [[package]]
 name = "packaging"

@@ -6,7 +6,7 @@
 
 ## Развертывание окружения
 
-Установите (uv)[https://docs.astral.sh/uv/getting-started/installation/]
+Установите [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 ```bash
 uv sync
